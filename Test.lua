@@ -1,5 +1,5 @@
-```Lua
+
 
 local Skibidi = "Toitoilet"
 print(Skibidi)
-```
+
